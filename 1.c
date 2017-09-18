@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-  printf("Problem one: %d\n", problemone);
+  printf("Problem one: %d\n", problemone());
 
   return 0;
 }
